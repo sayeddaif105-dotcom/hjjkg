@@ -1,0 +1,6 @@
+{
+  "name": "ميدو - كروت أفراح",
+  "description": "منصة ميدو لكروت الأفراح الشعبية والعصرية - اعمل كرت فرحك بالحب",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

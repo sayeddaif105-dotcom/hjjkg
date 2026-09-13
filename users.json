@@ -1,0 +1,10 @@
+[
+  {
+    "id": "cb72d49e-d02c-4b2a-9a5f-fcde5e5d3b90",
+    "username": "عريس تجريبي",
+    "email": "test@example.com",
+    "passwordHash": "272deca1f4e56739a0450294f39d22b7945ed6b23d70a0dd30ca7f0f3165fb0a2cef2f1b6696271551e67e2a256342a8f8a65ccbe5a01d2427cf1c47093588fe",
+    "salt": "4a1c17163f244ab6b45c00808d5624e7",
+    "createdAt": "2026-09-13T06:21:43.986Z"
+  }
+]
